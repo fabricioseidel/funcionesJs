@@ -1,0 +1,17 @@
+#key {
+  width: 200px;
+  height: 200px;
+  background-color: #ffffff; /* blanco */
+  border: 2px solid #000000; /* borde negro */
+}
+#key {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: inline-flex;
+}
+#contenedor {
+  display: inline-flex;
+}
